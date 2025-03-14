@@ -64,4 +64,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact  
 
-For questions or feedback, please contact us.
+For questions or feedback, please contact [Gauransh Singh](https://github.com/Gauransh_Singh).  
