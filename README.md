@@ -57,10 +57,7 @@ To use this repository:
 1.  Clone the repository to your local machine.  
 2.  Open the HTML files in a web browser to view the web pages.  
 3.  Run the Python notebooks (`.ipynb` files) using Jupyter Notebook or a similar environment.  
-  
-## License  
-
-This project is open source and available under the [MIT License](LICENSE).  
+    
 
 ## Contact  
 
